@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import telebot
 
 
-bot = telebot.TeleBot('897397420:AAGk-Nqkj4f0lNDQlHeFmkDZcKO3dH5mOlE')
+bot = telebot.TeleBot('')
 
 # Parsing
 page = 'https://community.uzbekcoders.uz/home/blogs'
